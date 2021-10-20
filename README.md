@@ -1,4 +1,4 @@
-# Computer-science
+# Computer-science<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 
 ### 규칙
 	질문에 대한 한 문장 모범답안을 적는다.
