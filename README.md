@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<h1>Computer-science<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/></h1>
+<h1>Computer-science<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="40px"/></h1>
 </div>
 
 
