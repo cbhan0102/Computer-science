@@ -1,4 +1,19 @@
-# Computer-science<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
+
+
+
+</br>
+</br>
+
+
+<div align="center">
+<h1>Computer-science<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="30px"/></h1>
+</div>
+
+
+</br>
+</br>
+
+
 
 ### 규칙
 	질문에 대한 한 문장 모범답안을 적는다.
